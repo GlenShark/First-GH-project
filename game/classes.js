@@ -12,7 +12,9 @@ class Sprite {
     update() {
         this.draw()
     }
-}git
+}
+
+
 
 class Fighter {
     constructor({position, velocity, color = 'red', offset}) {
